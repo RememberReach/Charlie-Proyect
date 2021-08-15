@@ -1,2 +1,2 @@
 # Charlie-Proyect
-Remake of the circus charlie videogame original in the nes (1986)
+Remake of the original video game circus charlie in nes (1986)
